@@ -1,0 +1,17 @@
+C:\Users\Abhishek\source\repos\BikeRentingSystem\BikeRentingSystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Abhishek\source\repos\BikeRentingSystem\BikeRentingSystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Abhishek\source\repos\BikeRentingSystem\BikeRentingSystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Abhishek\source\repos\BikeRentingSystem\BikeRentingSystemTest\bin\Debug\BikeRentingSystemTest.dll
+C:\Users\Abhishek\source\repos\BikeRentingSystem\BikeRentingSystemTest\bin\Debug\BikeRentingSystemTest.pdb
+C:\Users\Abhishek\source\repos\BikeRentingSystem\BikeRentingSystemTest\bin\Debug\BikeRentingSystem.exe
+C:\Users\Abhishek\source\repos\BikeRentingSystem\BikeRentingSystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Abhishek\source\repos\BikeRentingSystem\BikeRentingSystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Abhishek\source\repos\BikeRentingSystem\BikeRentingSystemTest\bin\Debug\BikeRentingSystem.pdb
+C:\Users\Abhishek\source\repos\BikeRentingSystem\BikeRentingSystemTest\bin\Debug\BikeRentingSystem.exe.config
+C:\Users\Abhishek\source\repos\BikeRentingSystem\BikeRentingSystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Abhishek\source\repos\BikeRentingSystem\BikeRentingSystemTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Abhishek\source\repos\BikeRentingSystem\BikeRentingSystemTest\obj\Debug\BikeRentingSystemTest.csprojAssemblyReference.cache
+C:\Users\Abhishek\source\repos\BikeRentingSystem\BikeRentingSystemTest\obj\Debug\BikeRentingSystemTest.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek\source\repos\BikeRentingSystem\BikeRentingSystemTest\obj\Debug\BikeRentingSystemTest.csproj.CopyComplete
+C:\Users\Abhishek\source\repos\BikeRentingSystem\BikeRentingSystemTest\obj\Debug\BikeRentingSystemTest.dll
+C:\Users\Abhishek\source\repos\BikeRentingSystem\BikeRentingSystemTest\obj\Debug\BikeRentingSystemTest.pdb
